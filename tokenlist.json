@@ -1,0 +1,19 @@
+{
+  "name": "MyTokenList",
+  "timestamp": "2026-03-04T14:34:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xea3fdac1eb623fb24b216d52021ed52087ce733d",
+      "name": "USDT",
+      "symbol": "Tether",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/<your-repo>/main/logo.png"
+    }
+  ]
+}
